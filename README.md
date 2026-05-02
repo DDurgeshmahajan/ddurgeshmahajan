@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Header Banner" style="border-radius: 15px;" />
+  <img src="./banner.png" width="100%" height="250px" alt="Header Banner" style="border-radius: 15px; object-fit: cover;" />
   <br/><br/>
   
   <a href="https://git.io/typing-svg">
@@ -48,7 +48,7 @@
 
 <h2 align="center">📊 Analytics & Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddurgeshmahajan&show_icons=true&theme=buefy&hide_border=true&bg_color=F4F6F8" alt="Durgesh's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ddurgeshmahajan&show_icons=true&theme=buefy&hide_border=true&bg_color=F4F6F8&count_private=true" alt="Durgesh's GitHub stats" height="192px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurgeshmahajan&layout=compact&theme=buefy&hide_border=true&bg_color=F4F6F8" alt="Top Languages" height="192px"/>
 </div>
 <br>

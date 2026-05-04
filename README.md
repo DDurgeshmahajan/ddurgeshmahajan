@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" height="250px" alt="Header Banner" style="border-radius: 15px; object-fit: cover;" />
+  <img src="./banner.png" width="100%" height="50px" alt="Header Banner" style="border-radius: 15px; object-fit: cover;" />
   <br/><br/>
   
   <a href="https://git.io/typing-svg">
@@ -45,56 +45,57 @@
     <tr>
       <!-- App 1: Resize Anything -->
       <td align="center" width="33%">
-        <a href="#">
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        <a href="https://play.google.com/store/apps/details?id=com.ddurgeshsmanifestations.bhagavad_gtasitis">
+          <img src="https://play-lh.googleusercontent.com/35jig48xN7OlMBnGBEEsNX3XieJUEgkWej9XV2oaZtazHFzGZZ7O-EgZ2gsmvOs3mhU=w480-h960-rw" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
         </a>
         <br/>
-        <strong style="font-size: 18px;">Resize Anything</strong>
+        <strong style="font-size: 18px;">Bhagavad Gita : As It Is</strong>
         <br/>
-        <p style="font-size: 13px; color: #666; margin-top: 5px;">Multi-format image & document compression engine.</p>
+        <p style="font-size: 13px; color: #666; margin-top: 5px;"> Amazing app with a beautiful and easy-to-use interface that has complete translations of the Bhagavad Gita in Hindi ,English and Even support more then 14 languages! </p>
         <br/>
         <img src="https://img.shields.io/badge/Rating-4.8%20%E2%98%85-FCA121?style=flat-square" alt="Rating" />
-        <img src="https://img.shields.io/badge/Downloads-10k%2B-00C853?style=flat-square" alt="Downloads" />
+        <img src="https://img.shields.io/badge/Downloads-1k%2B-00C853?style=flat-square" alt="Downloads" />
         <br/><br/>
-        <a href="#">
+        <a href="https://play.google.com/store/apps/details?id=com.ddurgeshsmanifestations.bhagavad_gtasitis">
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40" alt="Get it on Google Play"/>
         </a>
       </td>
       <!-- App 2: Neo-Archery -->
       <td align="center" width="33%">
-        <a href="#">
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        <a href="https://play.google.com/store/apps/details?id=com.family.tracker.family_expense_tracker">
+          <img src="https://play-lh.googleusercontent.com/r3zMrFW67Swlu7tc-W2ncHM9YGQPTumiONN6FRspVKhY4vNZKQ6pqWEzRl45ex4cUQS0WpxPDcxzKGCHgCqbBQ=w480-h960-rw" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
         </a>
         <br/>
-        <strong style="font-size: 18px;">Neo-Archery</strong>
+        <strong style="font-size: 18px;">Ghar Kharcha</strong>
         <br/>
-        <p style="font-size: 13px; color: #666; margin-top: 5px;">Fast-paced physics-based archery with procedural levels.</p>
+        <p style="font-size: 13px; color: #666; margin-top: 5px;">
+          Ghar Kharcha is built for real Indian households, where money decisions are shared, daily expenses are quick, and simplicity matters more than complexity.</p>
         <br/>
         <img src="https://img.shields.io/badge/Rating-4.9%20%E2%98%85-FCA121?style=flat-square" alt="Rating" />
-        <img src="https://img.shields.io/badge/Downloads-50k%2B-00C853?style=flat-square" alt="Downloads" />
+        <img src="https://img.shields.io/badge/Downloads-1k%2B-00C853?style=flat-square" alt="Downloads" />
         <br/><br/>
-        <a href="#">
+        <a href="https://play.google.com/store/apps/details?id=com.family.tracker.family_expense_tracker">
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40" alt="Get it on Google Play"/>
         </a>
       </td>
-      <!-- App 3: YouTube Downloader -->
       <td align="center" width="33%">
-        <a href="#">
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        <a href="https://play.google.com/store/apps/details?id=com.durgeshswork.smartpdfsaver">
+          <img src="https://play-lh.googleusercontent.com/_pJFzPNhkerY2qIyewlpqeJ0wkLzQjkelldlQBvhb7Mgn-_Wcv_MMo-F6KTIAMSOn5w=w480-h960-rw" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
         </a>
         <br/>
-        <strong style="font-size: 18px;">Media Downloader</strong>
+        <strong style="font-size: 18px;">PDF Color Split with B/W</strong>
         <br/>
-        <p style="font-size: 13px; color: #666; margin-top: 5px;">Frictionless high-quality audio and video extraction.</p>
+        <p style="font-size: 13px; color: #666; margin-top: 5px;">
+          Ever wished you could separate color and black & white pages from a PDF in just one tap? We did too; and that’s why we built this app</p>
         <br/>
-        <img src="https://img.shields.io/badge/Rating-4.7%20%E2%98%85-FCA121?style=flat-square" alt="Rating" />
-        <img src="https://img.shields.io/badge/Downloads-5k%2B-00C853?style=flat-square" alt="Downloads" />
+        <img src="https://img.shields.io/badge/Rating-4.9%20%E2%98%85-FCA121?style=flat-square" alt="Rating" />
+        <img src="https://img.shields.io/badge/Downloads-1k%2B-00C853?style=flat-square" alt="Downloads" />
         <br/><br/>
-        <a href="#">
+        <a href="https://play.google.com/store/apps/details?id=com.durgeshswork.smartpdfsaver">
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40" alt="Get it on Google Play"/>
         </a>
       </td>
-    </tr>
+      </tr>
   </table>
 </div>
 

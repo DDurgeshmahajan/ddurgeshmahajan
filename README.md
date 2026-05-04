@@ -122,7 +122,7 @@
         <strong style="font-size: 18px;">WallFusionAI</strong>
         <br/>
         <p style="font-size: 13px; color: #666; margin-top: 5px;">
-         Elevate your device experience with the power of stunning visuals and artistic wallpapers. WallFusionAI is your go-to hub for a diverse collection of high-quality wallpapers, carefully curated to cater to every style and mood. From mesmerizing landscapes to abstract masterpieces, immerse yourself in a world of endless possibilities.
+         Elevate your device experience with the power of stunning visuals and artistic wallpapers. WallFusionAI is your go-to hub for a diverse collection of high-quality wallpapers, carefully curated to cater to every style and mood. 
         </p>
         <br/>
         <img src="https://img.shields.io/badge/Downloads-100%2B-00C853?style=flat-square" alt="Downloads" />

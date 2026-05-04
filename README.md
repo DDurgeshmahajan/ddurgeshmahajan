@@ -89,9 +89,63 @@
           Ever wished you could separate color and black & white pages from a PDF in just one tap? We did too; and that’s why we built this app</p>
         <br/>
         <img src="https://img.shields.io/badge/Rating-4.9%20%E2%98%85-FCA121?style=flat-square" alt="Rating" />
-        <img src="https://img.shields.io/badge/Downloads-1k%2B-00C853?style=flat-square" alt="Downloads" />
+        <img src="https://img.shields.io/badge/Downloads-100%2B-00C853?style=flat-square" alt="Downloads" />
         <br/><br/>
         <a href="https://play.google.com/store/apps/details?id=com.durgeshswork.smartpdfsaver">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40" alt="Get it on Google Play"/>
+        </a>
+      </td>
+      </tr>
+      <tr>
+      <td align="center" width="33%">
+        <a href="https://play.google.com/store/apps/details?id=com.ddurgeshsmanifestations.youraitools">
+          <img src="https://play-lh.googleusercontent.com/FgCY3hra4COXydW2VYURavUpEeX14i0ELvtCItTzLQloV7esBnS3Zml4COE_nvcOx9uk2gsK-K-xlgy1nEFg=w480-h960-rw" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        </a>
+        <br/>
+        <strong style="font-size: 18px;">Your AI Tools</strong>
+        <br/>
+        <p style="font-size: 13px; color: #666; margin-top: 5px;">
+          Finding AI tools today is a mess. We watch reels… we save them… and later we can’t even find them.
+        </p>
+        <br/>
+        <img src="https://img.shields.io/badge/Downloads-100%2B-00C853?style=flat-square" alt="Downloads" />
+        <br/><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.ddurgeshsmanifestations.youraitools">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40" alt="Get it on Google Play"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://play.google.com/store/apps/details?id=com.ddurgeshsmanifestation.poseai">
+          <img src="https://play-lh.googleusercontent.com/_macBweUZeNc6oUOcyWopoScBhNgcv4f-nG4IsPpUnpfYz_BWpZHws9yic9NZfiMN9U=w480-h960-rw" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        </a>
+        <br/>
+        <strong style="font-size: 18px;">WallFusionAI</strong>
+        <br/>
+        <p style="font-size: 13px; color: #666; margin-top: 5px;">
+         Elevate your device experience with the power of stunning visuals and artistic wallpapers. WallFusionAI is your go-to hub for a diverse collection of high-quality wallpapers, carefully curated to cater to every style and mood. From mesmerizing landscapes to abstract masterpieces, immerse yourself in a world of endless possibilities.
+        </p>
+        <br/>
+        <img src="https://img.shields.io/badge/Downloads-100%2B-00C853?style=flat-square" alt="Downloads" />
+        <br/><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.ddurgeshsmanifestation.poseai">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40" alt="Get it on Google Play"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://play.google.com/store/apps/details?id=com.durgesh.gfmmanager">
+          <img src="https://play-lh.googleusercontent.com/HdYJ043Q5kKGQh_tFRAarQQfKwB-JDuZk1FZr2_aEOufx1vXZvLwEY0ZL-4BAPRrXK5A=w480-h960-rw" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        </a>
+        <br/>
+        <strong style="font-size: 18px;">GFM Manager</strong>
+        <br/>
+        <p style="font-size: 13px; color: #666; margin-top: 5px;">
+        Limited to Colleges - Faculties - Staff and Student .
+All Database and Accounts Handled by College Faculties With Call history Feature
+        </p>
+        <br/>
+        <img src="https://img.shields.io/badge/Downloads-10%2B-00C853?style=flat-square" alt="Downloads" />
+        <br/><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.durgesh.gfmmanager">
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40" alt="Get it on Google Play"/>
         </a>
       </td>

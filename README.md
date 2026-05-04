@@ -39,6 +39,71 @@
 
 <br>
 
+<h2 align="center">📱 Featured Mobile Experiences</h2>
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <!-- App 1: Resize Anything -->
+      <td align="center" width="33%" style="padding: 10px; border: none;">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        </a>
+        <br>
+        <strong style="font-size: 18px;">Resize Anything</strong>
+        <p style="font-size: 13px; color: #666; margin-top: 5px; height: 40px;">
+          Multi-format image & document compression engine.
+        </p>
+        <div style="margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/Rating-4.8%20%E2%98%85-FCA121?style=flat-square" alt="Rating" />
+          <img src="https://img.shields.io/badge/Downloads-10k%2B-00C853?style=flat-square" alt="Downloads" />
+        </div>
+        <a href="#">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="45" alt="Get it on Google Play"/>
+        </a>
+      </td>
+
+      <!-- App 2: Neo-Archery -->
+      <td align="center" width="33%" style="padding: 10px; border: none;">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        </a>
+        <br>
+        <strong style="font-size: 18px;">Neo-Archery</strong>
+        <p style="font-size: 13px; color: #666; margin-top: 5px; height: 40px;">
+          Fast-paced physics-based archery with procedural levels.
+        </p>
+        <div style="margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/Rating-4.9%20%E2%98%85-FCA121?style=flat-square" alt="Rating" />
+          <img src="https://img.shields.io/badge/Downloads-50k%2B-00C853?style=flat-square" alt="Downloads" />
+        </div>
+        <a href="#">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="45" alt="Get it on Google Play"/>
+        </a>
+      </td>
+
+      <!-- App 3: YouTube Downloader -->
+      <td align="center" width="33%" style="padding: 10px; border: none;">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="80" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-bottom: 15px; background: #F4F6F8; padding: 15px;" />
+        </a>
+        <br>
+        <strong style="font-size: 18px;">Media Downloader</strong>
+        <p style="font-size: 13px; color: #666; margin-top: 5px; height: 40px;">
+          Frictionless high-quality audio and video extraction.
+        </p>
+        <div style="margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/Rating-4.7%20%E2%98%85-FCA121?style=flat-square" alt="Rating" />
+          <img src="https://img.shields.io/badge/Downloads-5k%2B-00C853?style=flat-square" alt="Downloads" />
+        </div>
+        <a href="#">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="45" alt="Get it on Google Play"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ddurgeshmahajan&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
